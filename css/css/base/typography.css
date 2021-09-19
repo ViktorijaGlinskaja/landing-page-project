@@ -1,0 +1,47 @@
+
+.bold{font-weight: bold;}
+
+.section {position: relative;}
+
+.green-bg {background-color: var(--dark-green);}
+
+.size-20{ font-size: 20px;}
+
+h1{ font-family: var(--poppins);}
+
+h2{font-family: var(--poppins);}
+
+h3{
+    font-family: var(--poppins);
+    font-size: 24px;
+}
+
+p{font-family: var(--quicksand);}
+
+a{
+    font-family: var(--quicksand);
+    font-size: 18px;
+}
+
+input{font-family: var(--quicksand);}
+
+li{font-family: var(--poppins);}
+
+button{font-family: var(--quicksand);}
+
+div{font-family: var(--quicksand);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

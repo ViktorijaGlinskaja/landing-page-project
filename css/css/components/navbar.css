@@ -1,0 +1,18 @@
+.navbar-nav{
+    gap: 15px;
+}
+.nav-link{
+    color:var(--white);
+}
+
+.nav-link:hover{
+    color: var(--dark-green) ;
+}
+
+/*for navbar anchor fix:*/
+
+section:before {
+    height: 56px;
+    content: "";
+    display:block;
+}

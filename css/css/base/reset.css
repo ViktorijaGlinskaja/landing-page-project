@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.blog-grid .blog-info p {
+    margin: 0;
+}
+a{
+    color: var(--white);
+    text-decoration: none;
+}
