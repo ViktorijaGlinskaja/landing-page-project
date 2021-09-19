@@ -1,0 +1,22 @@
+
+.btn{
+    color: var(--white);
+    border-color: var(--white);
+}
+.btn:hover {
+    background-color: var(--white);
+    border-color: var(--white);
+    color: var(--dark-green);
+}
+
+
+
+.btn-green{
+    color: var(--dark-green);
+    border-color: var(--dark-green);
+}
+.btn-green:hover{
+    background-color: var(--dark-green);
+    border-color: var(--dark-green);
+    color: var(--white);
+}
